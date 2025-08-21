@@ -1,6 +1,6 @@
 Note:
 
-In the tarball 'lammps-samd.rar', a patch file implementing SAMD functionality in official LAMMPS releases, a set of LAMMPS input scripts for reproducing the results in Fig. 3, and a documentation detailing file usage and implementation procedures are provided.
+In the tarball 'lammps-samd.rar', a patch file implementing SAMD functionality in official LAMMPS releases, a set of LAMMPS input scripts for reproducing the results in Fig. 3 of the SAMD article (Comp. Phys. Comm., 2025), and a documentation detailing file usage and implementation procedures are provided.
 
 Usage of the patch file (for Linux):
 
