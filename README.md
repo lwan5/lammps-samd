@@ -2,7 +2,7 @@ Note:
 
 In the tarball 'lammps-samd.rar', a patch file implementing SAMD functionality in official LAMMPS releases, a set of LAMMPS input scripts for reproducing the results in Fig. 3, and a documentation detailing file usage and implementation procedures are provided.
 
-Usage of the patch file:
+Usage of the patch file (for Linux):
 
 Go to the root of your LAMMPS directory, copy the patch file to this directory, then type the following command in console:
 
